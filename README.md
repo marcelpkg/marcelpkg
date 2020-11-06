@@ -1,4 +1,9 @@
-### Hi there 👋
+### 🍕 xdDirti
+
+- 😖 Noob developer
+- 🧠 No big brain time
+- 😕 Somehow my discord bot has 75+ servers
+- 😬 Doesn't know what he's doing.
 
 <!--
 **xdDirti/xdDirti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...\
 -->
