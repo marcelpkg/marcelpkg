@@ -2073,12 +2073,23 @@ do -- Example UI
 		})
 		JumpPower:Set(25)
 		
+		local gameScripts = Tab:AddFolder("Game Scripts")
+		gameScripts:AddLabel("Rejoin Game doesn't inject your exploit automatically.")
+		gameScripts:AddButton("Rejoin Game", function()
+			-- Services
+			local rejoin = game:GetService("TeleportService")
+			local player = game:GetService("Players").LocalPlayer
+			-- Function
+			rejoin:Teleport(game.PlaceId, player)
+		end)
+		
 		local CharacterFolder = Tab:AddFolder("Character Scripts") -- This can contain exactly the same as a Tab. You can have as many folders as you'd like to.
 
 		CharacterFolder:AddLabel("Walkspeed will not work with this R6 script.")
 		CharacterFolder:AddButton("R6 (Not serversided)", function()
 			loadstring(game:HttpGet("https://pastebin.com/raw/hhAKfJ03"))()
 		end)
+		
 
 		local Folder = Tab:AddFolder("Animation Scripts") -- This can contain exactly the same as a Tab. You can have as many folders as you'd like to.
 		Folder:AddButton("Nullware Hub", function()
