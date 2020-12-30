@@ -1,5 +1,6 @@
 ### 🍕 xdDirti
-- 🔭 I’m currently working on coronabot
+- 🙂 I know: Lua, YAML Syntax, Python, JavaScript.
+- 🔭 I’m currently working on FusionMines
 - 🌱 I’m currently learning lua
 - 🤔 I’m looking for help with TweenPosition
 - 📫 How to reach me: @xdDirti
