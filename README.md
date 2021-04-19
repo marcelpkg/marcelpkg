@@ -1,8 +1,7 @@
 ### 🍕 xdDirti
 - 🙂 I know: Lua, YAML Syntax, Python, JavaScript.
-- 🔭 I’m currently working on FusionMines
-- 🌱 I’m currently learning lua
-- 🤔 I’m looking for help with TweenPosition
+- 🔭 I’m currently working on a Hypixel Skyblock Frag bot.
+- 🌱 I’m currently learning Mineflayer
 - 📫 How to reach me: @xdDirti
 - ⚡ Fun fact: I have no idea what I'm doing.
 <!--
