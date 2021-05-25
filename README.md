@@ -1,9 +1,9 @@
 ### 🍕 xdDirti
-- 🙂 I know: Lua, YAML Syntax, Python, JavaScript.
-- 🔭 I’m currently working on a Hypixel Skyblock Frag bot.
-- 🌱 I’m currently learning Mineflayer
+- 🙂 I know/am: Basic Lua, YAML, Learning Python, Learning Java, Intermidiate @ JavaScript.
+- 🔭 I’m currently working on pretty much nothing.
+- 🌱 I’m currently learning Java + Python.
 - 📫 How to reach me: @xdDirti
-- ⚡ Fun fact: I have no idea what I'm doing.
+- ⚡ Fun fact: I have no idea what I'm doing... lmao
 <!--
 **xdDirti/xdDirti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
