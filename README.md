@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/FYDfJdt/Git-Hub-Readme-Top.png" height="175px"/></a>
-
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Marcel!</h1>
 
 ## 🚀 Languages and Tools:
