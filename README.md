@@ -3,7 +3,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
-    <a href="https://www.spigotmc.org"><img height="32" width="32" src="https://cdn.simpleicons.org/spigotmc" /></a>
+    <a href="https://www.spigotmc.org"><img src="https://cdn.simpleicons.org/spigotmc" /></a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     
 </p>
