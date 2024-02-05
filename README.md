@@ -44,6 +44,6 @@
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=xdDirti">
+    <img src="https://komarev.com/ghpvc/?username=marcelpkg">
 </a>
-<a href="https://github.com/xdDirti?tab=followers"><img src="https://img.shields.io/github/followers/xdDirti?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/marcelpkg?tab=followers"><img src="https://img.shields.io/github/followers/marcelpkg?label=Followers&style=social" alt="GitHub Badge"></a>
