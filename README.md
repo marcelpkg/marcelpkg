@@ -3,6 +3,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <a href="https://www.spigotmc.org"><img height="32" width="32" src="https://cdn.simpleicons.org/spigotmc" /></a>
     <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/python" /></a>
 
