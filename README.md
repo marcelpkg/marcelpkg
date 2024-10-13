@@ -1,7 +1,7 @@
-# Hi I'm Marcel 👋
-I don't really do much on this platform, just know the basics of JavaScript and Python, however always looking to learn more ^^
+## hi, i'm marcel
+i don't do much on this platform, know the basics of some languages such as js python and go, however always looking to learn more ^^
 
-## 🚀 Languages and Tools
+## stuff i use
 
 <p align="center"> 
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -15,7 +15,7 @@ I don't really do much on this platform, just know the basics of JavaScript and 
 </p>
 <br/>
 
-## 📲 My Github Statistics
+## statistics
 
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Marcel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marcelpkg&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -40,7 +40,7 @@ I don't really do much on this platform, just know the basics of JavaScript and 
 
 </p>
 
-## ❤ Views and Followers
+## profile statistics
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=marcelpkg">
