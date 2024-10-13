@@ -16,19 +16,10 @@ i don't do much on this platform, know the basics of some languages such as js p
 <br/>
 
 ## statistics
-
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Marcel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marcelpkg&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Marcel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelpkg&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-
+    <a href="https://github.com/marcelpkg"><img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=marcelpkg&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-<br/>
-<br/>
-
-<br/>
-<br/>
 
 <!--  ## Connect with me:
 <p align="left">
