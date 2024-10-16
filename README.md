@@ -17,7 +17,8 @@ i don't do much on this platform, know the basics of some languages such as js p
 
 ## statistics
   <br/>
-    <a href="https://github.com/marcelpkg"><img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=marcelpkg&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/marcelpkg"><img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelpkg&theme=nightowl&hide_border=true"></a>
+    <a href="https://github.com/marcelpkg"><img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=marcelpkg&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
