@@ -1,5 +1,5 @@
-## hi, i'm marcel
-i don't do much on this platform, know the basics of some languages such as js python and go, however always looking to learn more ^^
+## hi, i'm marcel a silly silly femboy
+i don't do much on this platform, know the basics of some languages such as js python and go, however always looking to learn more :3
 
 ## stuff i use
 
