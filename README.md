@@ -28,26 +28,26 @@ fun_fact: "I believe code can be both functional AND aesthetic 💖"
   
 ### 🎨 Languages I Love
 <p>
-  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white&color=2D1B69&labelColor=4A148C" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFF8DC?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=2D1B69&labelColor=4A148C" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-B8E6FF?style=for-the-badge&logo=typescript&logoColor=3178C6&color=2D1B69&labelColor=4A148C" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Go-C8E6C9?style=for-the-badge&logo=go&logoColor=00ADD8&color=2D1B69&labelColor=4A148C" alt="Go"/>
-  <img src="https://img.shields.io/badge/Lua-DDA0DD?style=for-the-badge&logo=lua&logoColor=2C2D72&color=2D1B69&labelColor=4A148C" alt="Lua"/>
+  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=4B0082&color=F8BBD9&labelColor=E4B7E5" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFFACD?style=for-the-badge&logo=javascript&logoColor=B8860B&color=F5E6A8&labelColor=F0D98C" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-B8E6FF?style=for-the-badge&logo=typescript&logoColor=4169E1&color=D6F0FF&labelColor=C2E8FF" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Go-C8E6C9?style=for-the-badge&logo=go&logoColor=228B22&color=E8F5E8&labelColor=D4F1D4" alt="Go"/>
+  <img src="https://img.shields.io/badge/Lua-E6E6FA?style=for-the-badge&logo=lua&logoColor=6A5ACD&color=F0E6FF&labelColor=E9D9FF" alt="Lua"/>
 </p>
 
 ### 🌟 Frameworks & Tools
 <p>
-  <img src="https://img.shields.io/badge/Express.js-FFE4E1?style=for-the-badge&logo=express&logoColor=000000&color=2D1B69&labelColor=4A148C" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Node.js-E8F5E8?style=for-the-badge&logo=node.js&logoColor=339933&color=2D1B69&labelColor=4A148C" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-E1F5FE?style=for-the-badge&logo=react&logoColor=61DAFB&color=2D1B69&labelColor=4A148C" alt="React"/>
-  <img src="https://img.shields.io/badge/Git-FFE4E6?style=for-the-badge&logo=git&logoColor=F05032&color=2D1B69&labelColor=4A148C" alt="Git"/>
+  <img src="https://img.shields.io/badge/Express.js-FFCCCB?style=for-the-badge&logo=express&logoColor=8B0000&color=FFD6D6&labelColor=FFBABA" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Node.js-E8F5E8?style=for-the-badge&logo=node.js&logoColor=228B22&color=F0FFF0&labelColor=E8F8E8" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-E0F7FF?style=for-the-badge&logo=react&logoColor=00BFFF&color=F0FDFF&labelColor=E6FAFF" alt="React"/>
+  <img src="https://img.shields.io/badge/Git-FFD1DC?style=for-the-badge&logo=git&logoColor=DC143C&color=FFE4E6&labelColor=FFD6D9" alt="Git"/>
 </p>
 
 ### 💖 Development Environment
 <p>
-  <img src="https://img.shields.io/badge/VSCode-E6E6FA?style=for-the-badge&logo=visual%20studio%20code&logoColor=007ACC&color=2D1B69&labelColor=4A148C" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/NeoVim-E0FFE0?style=for-the-badge&logo=neovim&logoColor=57A143&color=2D1B69&labelColor=4A148C" alt="NeoVim"/>
-  <img src="https://img.shields.io/badge/Terminal-F0E6FF?style=for-the-badge&logo=gnome%20terminal&logoColor=663399&color=2D1B69&labelColor=4A148C" alt="Terminal"/>
+  <img src="https://img.shields.io/badge/VSCode-E6E6FA?style=for-the-badge&logo=visual%20studio%20code&logoColor=4169E1&color=F0E6FF&labelColor=E9D9FF" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/NeoVim-D1F2EB?style=for-the-badge&logo=neovim&logoColor=00A86B&color=E8F8F5&labelColor=D5F5E3" alt="NeoVim"/>
+  <img src="https://img.shields.io/badge/Terminal-F0E6FF?style=for-the-badge&logo=gnome%20terminal&logoColor=9370DB&color=F5EEFF&labelColor=F0E6FF" alt="Terminal"/>
 </p>
 
 </div>
