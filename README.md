@@ -73,7 +73,7 @@ fun_fact: "I believe code can be both functional AND aesthetic 💖"
 <div align="center">
   
 ```javascript
-const marcelina = {
+       const marcelina = {
     currentlyLearning: ["Advanced Go Patterns", "System Design", "Web3"],
     workingOn: ["Open Source Contributions", "Personal Projects"],
     askMeAbout: ["JavaScript", "Python", "Go", "Clean Code"],
