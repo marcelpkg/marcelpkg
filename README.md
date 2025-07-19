@@ -1,41 +1,69 @@
-## hi, i'm marcel
-i don't do much on this platform, know the basics of some languages such as js python and go, however always looking to learn more ^^
+<div align="center">
 
-## stuff i use
+# marcel.
 
-<p align="center"> 
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-    <br/>
-    <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-</p>
-<br/>
+*developer. learner. builder.*
 
-## statistics
-  <br/>
-    <a href="https://github.com/marcelpkg"><img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelpkg&theme=nightowl&hide_border=true"></a>
-    <a href="https://github.com/marcelpkg"><img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=marcelpkg&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+---
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=const+marcel+%3D+%7B;++languages%3A+%5B'js'%2C+'python'%2C+'go'%5D%2C;++status%3A+'always+learning'+%F0%9F%9A%80;%7D" alt="Typing SVG" />
+</div>
 
-<!--  ## Connect with me:
-<p align="left">
+---
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+### tech stack
 
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
 
-## profile statistics
+![Python](https://img.shields.io/badge/python-black?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-black?style=flat-square&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-black?style=flat-square&logo=lua&logoColor=white)
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=marcelpkg">
-</a>
-<a href="https://github.com/marcelpkg?tab=followers"><img src="https://img.shields.io/github/followers/marcelpkg?label=Followers&style=social" alt="GitHub Badge"></a>
+![Express](https://img.shields.io/badge/express-black?style=flat-square&logo=express&logoColor=white)
+![VSCode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/neovim-black?style=flat-square&logo=neovim&logoColor=white)
+
+</div>
+
+---
+
+### metrics
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=marcelpkg&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=marcel's+stats" />
+
+<img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelpkg&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&dates=8b949e" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelpkg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&custom_title=most+used+languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelpkg&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=21262d&hide_border=true&custom_title=contribution+timeline" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=true&textBg=false" />
+</div>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=marcelpkg&style=flat-square&color=58a6ff)
+![](https://img.shields.io/github/followers/marcelpkg?style=flat-square&color=58a6ff&labelColor=0d1117)
+![](https://img.shields.io/github/stars/marcelpkg?style=flat-square&color=58a6ff&labelColor=0d1117)
+
+</div>
+
+</div>
