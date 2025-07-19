@@ -58,11 +58,13 @@ fun_fact: "I believe code can be both functional AND aesthetic 💖"
 
 <div align="center">
   
-  ![Marcelina's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcelpkg&theme=radical&hide_border=true&background=1A0B2E&ring=FF69B4&fire=FFB6C1&currStreakNum=FFB8D1&stroke=DDA0DD&dates=E6E6FA)
+  ![Marcelina's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcelpkg&theme=tokyonight&hide_border=true&background=2D1B50&ring=E6B3FF&fire=FFB8E1&currStreakNum=F8D7FF&stroke=C8A2E8&dates=F0E6FF&sideNums=E6B3FF&sideLabels=DDB3FF)
   
-  ![Marcelina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelpkg&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FF69B4&text_color=E6E6FA&icon_color=FFB6C1&border_radius=15)
+  ![Marcelina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelpkg&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=2D1B50&title_color=E6B3FF&text_color=F0E6FF&icon_color=FFB8E1&border_radius=20&card_width=500)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelpkg&layout=compact&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FF69B4&text_color=E6E6FA&border_radius=15)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelpkg&layout=donut&theme=synthwave&hide_border=true&bg_color=2D1B50&title_color=E6B3FF&text_color=F0E6FF&border_radius=20&card_width=500)
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcelpkg&bg_color=2D1B50&color=F0E6FF&line=E6B3FF&point=FFB8E1&area=true&area_color=DDB3FF&hide_border=true&custom_title=My%20Contribution%20Journey%20%E2%9C%A8&radius=15)
   
 </div>
 
