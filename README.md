@@ -2,17 +2,9 @@
 
 # marcel.
 
-*developer. learner. builder.*
-
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=const+marcel+%3D+%7B;++languages%3A+%5B%22js%22%2C+%22python%22%2C+%22go%22%5D%2C;++status%3A+%22always+learning%22+%F0%9F%9A%80;%7D" alt="Typing SVG" />
-</div>
-
----
-
-### tech stack
+### tech
 
 
 ![Python](https://img.shields.io/badge/python-black?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-black?style=flat-square&logo=go&logoColor=white) ![Lua](https://img.shields.io/badge/lua-black?style=flat-square&logo=lua&logoColor=white)  
@@ -42,10 +34,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer&reversal=true&textBg=false" />
-</div>
 
 <div align="center">
 
